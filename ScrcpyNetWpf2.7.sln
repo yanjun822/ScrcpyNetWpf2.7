@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrcpyNetWpf2.7", "ScrcpyNetWpf2.7\ScrcpyNetWpf2.7.csproj", "{B45CF7BB-FD75-4354-9914-209F3827EDDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrcpyNet", "ScrcpyNet\ScrcpyNet.csproj", "{05F1FAED-81AA-DBA8-AEAD-3E5EA0D11E5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrcpyNetWpf2", "ScrcpyNetWpf2\ScrcpyNetWpf2.csproj", "{2DA2CFF8-B220-4E20-8A3B-5AFAAD938E72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B45CF7BB-FD75-4354-9914-209F3827EDDA}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{B45CF7BB-FD75-4354-9914-209F3827EDDA}.Debug|Any CPU.Build.0 = Debug|x64
+		{B45CF7BB-FD75-4354-9914-209F3827EDDA}.Debug|x64.ActiveCfg = Debug|x64
+		{B45CF7BB-FD75-4354-9914-209F3827EDDA}.Debug|x64.Build.0 = Debug|x64
+		{B45CF7BB-FD75-4354-9914-209F3827EDDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B45CF7BB-FD75-4354-9914-209F3827EDDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B45CF7BB-FD75-4354-9914-209F3827EDDA}.Release|x64.ActiveCfg = Release|Any CPU
+		{B45CF7BB-FD75-4354-9914-209F3827EDDA}.Release|x64.Build.0 = Release|Any CPU
+		{05F1FAED-81AA-DBA8-AEAD-3E5EA0D11E5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05F1FAED-81AA-DBA8-AEAD-3E5EA0D11E5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05F1FAED-81AA-DBA8-AEAD-3E5EA0D11E5C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{05F1FAED-81AA-DBA8-AEAD-3E5EA0D11E5C}.Debug|x64.Build.0 = Debug|Any CPU
+		{05F1FAED-81AA-DBA8-AEAD-3E5EA0D11E5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05F1FAED-81AA-DBA8-AEAD-3E5EA0D11E5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05F1FAED-81AA-DBA8-AEAD-3E5EA0D11E5C}.Release|x64.ActiveCfg = Release|Any CPU
+		{05F1FAED-81AA-DBA8-AEAD-3E5EA0D11E5C}.Release|x64.Build.0 = Release|Any CPU
+		{2DA2CFF8-B220-4E20-8A3B-5AFAAD938E72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DA2CFF8-B220-4E20-8A3B-5AFAAD938E72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DA2CFF8-B220-4E20-8A3B-5AFAAD938E72}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{2DA2CFF8-B220-4E20-8A3B-5AFAAD938E72}.Debug|x64.Build.0 = Debug|Any CPU
+		{2DA2CFF8-B220-4E20-8A3B-5AFAAD938E72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DA2CFF8-B220-4E20-8A3B-5AFAAD938E72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DA2CFF8-B220-4E20-8A3B-5AFAAD938E72}.Release|x64.ActiveCfg = Release|Any CPU
+		{2DA2CFF8-B220-4E20-8A3B-5AFAAD938E72}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7ABDD156-BA6A-40F7-AD93-0358E702EFC0}
+	EndGlobalSection
+EndGlobal
